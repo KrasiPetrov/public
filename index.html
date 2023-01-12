@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<style>
+.center {
+  
+ margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+
+  text-align: center;
+  padding: 70px 0;
+  border: 3px solid green;
+}
+</style>
+</head>
+
+
+<old_body onload="myFunction()">
+<body onload="makeid(15)" bgcolor=black>
+
+
+<p onClick="window.location.reload();" id="demo" class="center" style="font-family:verdana;font-size:40px;color:white;"></p>
+
+<script>
+function myFunction() {
+  document.getElementById("demo").innerHTML = Math.random();
+}
+
+function makeid(length) {
+   var result           = '';
+   var characters       = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%';
+   var charactersLength = characters.length;
+   for ( var i = 0; i < length; i++ ) {
+      result += characters.charAt(Math.floor(Math.random() * charactersLength));
+   }
+     document.getElementById("demo").innerHTML = result;
+}
+
+
+
+</script>
+
+</body>
+</html>
