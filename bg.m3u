@@ -1,7 +1,10 @@
 #EXTM3U
 #EXTINF:2,BG: tiktok-bg
-#EXTVLCOPT:network-caching=100
+#EXTVLCOPT:network-caching=300
 https://as2.12all.tv/play/tiktoktv
+#EXTINF:2,BG: tiktok
+#EXTVLCOPT:network-caching=300
+https://as2.12all.tv/play/tiktoktv/index.m3u8
 #EXTINF:-1,BG: MAX SPORT 1
 http://vuelo.monster:8080/live/2291662860361116/8691662860361116/24050.ts
 #EXTINF:-1,BG: MAX SPORT 2
