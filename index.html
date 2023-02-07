@@ -26,6 +26,9 @@
 
 <p onClick="window.location.reload();" id="demo" class="center" style="font-family:verdana;font-size:40px;color:white;"></p>
 
+
+
+
 <script>
 function myFunction() {
   document.getElementById("demo").innerHTML = Math.random();
@@ -39,7 +42,10 @@ function makeid(length) {
       result += characters.charAt(Math.floor(Math.random() * charactersLength));
    }
      document.getElementById("demo").innerHTML = result;
+     navigator.clipboard.writeText(result);
+
 }
+
 
 
 
