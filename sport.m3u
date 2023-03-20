@@ -1,76 +1,76 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1,Nova Sport
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lBpYRAK7hZ6scC4PrXms91Q/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lBpYRAK7hZ6scC4PrXms91Q/m3u8
 #EXTINF:-1,Diema
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lCi0yh2FTbm7k12eyG2_Wnk/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lCi0yh2FTbm7k12eyG2_Wnk/m3u8
 #EXTINF:-1,Eurosport
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lL6T6FW3EM5GZsT1fSLaE2c/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lL6T6FW3EM5GZsT1fSLaE2c/m3u8
 #EXTINF:-1,Eurosport 2
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lPf2ojqj_UO0mzyOogup5aQ/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lPf2ojqj_UO0mzyOogup5aQ/m3u8
 #EXTINF:-1,RING.BG
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lPCrLaHXJJ89GFHteMCCjWc/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lPCrLaHXJJ89GFHteMCCjWc/m3u8
 #EXTINF:-1,RING.BG HD
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lLeOOXRol3BseWCYAoASMKo/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lLeOOXRol3BseWCYAoASMKo/m3u8
 #EXTINF:-1,TV1000
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lIx4ufADcqV-NA7hD19ttvo/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lIx4ufADcqV-NA7hD19ttvo/m3u8
 #EXTINF:-1,Eurosport 1 HD
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lHDZkAZN9Vxy1gNlrHHFHpluenmWdWg2FqKIrbQFXXHA/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lHDZkAZN9Vxy1gNlrHHFHpluenmWdWg2FqKIrbQFXXHA/m3u8
 #EXTINF:-1,Nat Geo HD
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lPv7yTiUGpWLuHzF5ZASFoDfzgh1myXuxbbBpz0ykwb4/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lPv7yTiUGpWLuHzF5ZASFoDfzgh1myXuxbbBpz0ykwb4/m3u8
 #EXTINF:-1,Nova Sport HD
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lIeASQyKWCmftPaW-rLL4L4hiBI9hJW_r_RPNMseMFPT/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lIeASQyKWCmftPaW-rLL4L4hiBI9hJW_r_RPNMseMFPT/m3u8
 #EXTINF:-1,Trace Sport Stars
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lEk-YLM0WxOMjfz0ImjssHHLrFdVFJ84AEbqQ9AKDuXH/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lEk-YLM0WxOMjfz0ImjssHHLrFdVFJ84AEbqQ9AKDuXH/m3u8
 #EXTINF:-1,Diema Sport
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lKC1oeGQKzSPAsULStKmym0NQt73D7lOX9NxjdqEhIK7/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lKC1oeGQKzSPAsULStKmym0NQt73D7lOX9NxjdqEhIK7/m3u8
 #EXTINF:-1,Eurosport 2 HD
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lFgISLqFgwqsEkdlEoL3pFc0Bb2xXUS3JMzLBhonzFwm/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lFgISLqFgwqsEkdlEoL3pFc0Bb2xXUS3JMzLBhonzFwm/m3u8
 #EXTINF:-1,Diema Sport 3 HD
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lBYGB5eTmTrBDWfiIm3SP2b1afnR2YIaNn0uI8r3anfO/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lBYGB5eTmTrBDWfiIm3SP2b1afnR2YIaNn0uI8r3anfO/m3u8
 #EXTINF:-1,Diema Sport 3
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lPs76zAWH8BBMTeFtgxWyrZZAAno-go4I73NMlCinaDK/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lPs76zAWH8BBMTeFtgxWyrZZAAno-go4I73NMlCinaDK/m3u8
 #EXTINF:-1,CBC Sport HD
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lNsU1lsitk0KH69COF3E14jKn6fkD9EWb3-HbNzliogH/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lNsU1lsitk0KH69COF3E14jKn6fkD9EWb3-HbNzliogH/m3u8
 #EXTINF:-1,FightBox HD
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lL_bGRq2jAblUm4vOfvMj1guGs9Oj_QLhSiTchphTA2u/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lL_bGRq2jAblUm4vOfvMj1guGs9Oj_QLhSiTchphTA2u/m3u8
 #EXTINF:-1,Diema Sport 2
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lAArWgDwxYrs3FcVoPq0MDLlfBK4SanHnCYxQ7WfX89-/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lAArWgDwxYrs3FcVoPq0MDLlfBK4SanHnCYxQ7WfX89-/m3u8
 #EXTINF:-1,Diema Sport 2 HD
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lDbMoqlXvwd7uYyqIxH_A5UmHa_RwNlkhMSjvdikGBou/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lDbMoqlXvwd7uYyqIxH_A5UmHa_RwNlkhMSjvdikGBou/m3u8
 #EXTINF:-1,Nova Sport HD (Nova TV)
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lNWDwx2wbYyj6fp2IqGAlDIOjKxNZNfgzNMRNolXPyi-/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lNWDwx2wbYyj6fp2IqGAlDIOjKxNZNfgzNMRNolXPyi-/m3u8
 #EXTINF:-1,Diema Sport SD (Nova TV)
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lPb-Li1GtfoULgZWgxIlJegHCLegWrWqqCLZJ_utAWox/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lPb-Li1GtfoULgZWgxIlJegHCLegWrWqqCLZJ_utAWox/m3u8
 #EXTINF:-1,Nova Sport (Nova TV)
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lNBC30qTSJzEIJp2T-lRVbRWXKoXjYANt3uDzxUyUt5z/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lNBC30qTSJzEIJp2T-lRVbRWXKoXjYANt3uDzxUyUt5z/m3u8
 #EXTINF:-1,RING.BG (bTV Media Group)
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lFeZzK0un0q9-KXiNtX7ykTg2UcvasUBSjWBfgQyjAy1/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lFeZzK0un0q9-KXiNtX7ykTg2UcvasUBSjWBfgQyjAy1/m3u8
 #EXTINF:-1,Diema Sport 2 HD (Nova Broadcasting Group)
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lG3Ui6_-RaMmbOketE2p4ortYvQtfXIFj8kxSz0-IMaX/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lG3Ui6_-RaMmbOketE2p4ortYvQtfXIFj8kxSz0-IMaX/m3u8
 #EXTINF:-1,Diema Sport 2 SD (Nova Broadcasting Group)
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lBiOmAJUYyUhONp-EII3nSJRRIVnxFnaLD_eLtbNy72C/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lBiOmAJUYyUhONp-EII3nSJRRIVnxFnaLD_eLtbNy72C/m3u8
 #EXTINF:-1,Eurosport 1 SD Bulgaria (Levira)
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lB_hXtA1q5bmXWvWcnsdj-W8KQ--0qltjiGMkv0Vqyr7/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lB_hXtA1q5bmXWvWcnsdj-W8KQ--0qltjiGMkv0Vqyr7/m3u8
 #EXTINF:-1,Eurosport 1 HD Bulgaria (Levira)
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lKT6L7w3KoqDlzYEbnVbYkh5aTOaT6UX4z3RHUGgIBIz/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lKT6L7w3KoqDlzYEbnVbYkh5aTOaT6UX4z3RHUGgIBIz/m3u8
 #EXTINF:-1,Eurosport 2 HD (Eurosport 2 HD)
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lBKFZsA-oQXgXC4vbxK8yPWt6oSpzRDhH8q8jHrAkOA4/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lBKFZsA-oQXgXC4vbxK8yPWt6oSpzRDhH8q8jHrAkOA4/m3u8
 #EXTINF:-1,Diema Sport 2 SD (Nova TV)
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lAk6ENREvG7OpRW2d3kAzGuJdywgNYAA--l6371AbW_2/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lAk6ENREvG7OpRW2d3kAzGuJdywgNYAA--l6371AbW_2/m3u8
 #EXTINF:-1,Diema Sport SD (Nova TV)
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lPpXqYD6Iy9yFZuR-AbfsFWbL-jJZ9T-HnAnl-mlDpXh/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lPpXqYD6Iy9yFZuR-AbfsFWbL-jJZ9T-HnAnl-mlDpXh/m3u8
 #EXTINF:-1,Diema Family (Nova TV)
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lHH6n-ZD84_Ytw458jWH8lb_RB5pGqz76_sUpzUppG-h/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lHH6n-ZD84_Ytw458jWH8lb_RB5pGqz76_sUpzUppG-h/m3u8
 #EXTINF:-1,Nova Sport (Nova TV)
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lBPuxnC5bQ5r8EYGT1zzc70vLOeKbciIfPgBel1MwpsO/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lBPuxnC5bQ5r8EYGT1zzc70vLOeKbciIfPgBel1MwpsO/m3u8
 #EXTINF:-1,MAX Sport 4 HD (A1)
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lO_qXYUTwuK4DwmxNEKd1iL0452v0NPuc7uiVOCCVL8J/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lO_qXYUTwuK4DwmxNEKd1iL0452v0NPuc7uiVOCCVL8J/m3u8
 #EXTINF:-1,MAX Sport 3 HD (A1)
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lA6y8m8LDlAlbyDzF1ZBtVYX2zcEZ7Gle4FUxzxwkYSr/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lA6y8m8LDlAlbyDzF1ZBtVYX2zcEZ7Gle4FUxzxwkYSr/m3u8
 #EXTINF:-1,MAX Sport 2 HD (A1)
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lJ3eviHnfM_D0ATEnXLbRRDrPJumzLjstslkRdaqtVIF/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lJ3eviHnfM_D0ATEnXLbRRDrPJumzLjstslkRdaqtVIF/m3u8
 #EXTINF:-1,MAX Sport 1 HD (A1)
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lMvQJUju-Up8Difrh1kF0jbrF4aqfEs0fgFj9rk16mWQ/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lMvQJUju-Up8Difrh1kF0jbrF4aqfEs0fgFj9rk16mWQ/m3u8
 #EXTINF:-1,Diema Sport 3 HD (Nova Broadcasting Group)
-http://192.168.88.95:80/play/F-4sXRpFqRsPEsLqLun5lL6MIMQ7Nr04DnPkRjtQUgTl1JGEEqDHynu4BGlzRKgi/m3u8
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lL6MIMQ7Nr04DnPkRjtQUgTl1JGEEqDHynu4BGlzRKgi/m3u8
