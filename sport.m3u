@@ -1,5 +1,9 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1,Magic TV
+https://bss1.neterra.tv/magictv/magictv.m3u8
+#EXTINF:-1,Nova Sport h
+http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lBpYRAK7hZ6scC4PrXms91Q/m3u8
 #EXTINF:-1,Nova Sport
 https://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lBpYRAK7hZ6scC4PrXms91Q/m3u8
 #EXTINF:-1,Diema
