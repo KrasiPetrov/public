@@ -2,6 +2,8 @@
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1,Magic TV
 https://bss1.neterra.tv/magictv/magictv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",THEVOICE
+https://bss1.neterra.tv/thevoice/thevoice.m3u8
 #EXTINF:-1,FOX Life FHD BG
 http://45.12.1.14:80/Vhq1RRfkcN368/WEhPeJ329/28212
 #EXTINF:-1,24 Kitchen HD BG
@@ -10,6 +12,12 @@ http://45.12.1.14:80/Vhq1RRfkcN368/WEhPeJ329/44164
 http://45.12.1.14:80/Vhq1RRfkcN368/WEhPeJ329/44172
 #EXTINF:-1,TLC BG
 http://45.12.1.14:80/Vhq1RRfkcN368/WEhPeJ329/27133
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tiankovfolk 
+https://streamer103.neterra.tv/tiankov-folk/tiankov-folk_SD.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TIANKOVFOLK
+https://streamer103.neterra.tv/tiankov-orient/tiankov-orient_SD.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DSTV
+http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1,Nova Sport h
 http://xtv.ydns.eu/play/F-4sXRpFqRsPEsLqLun5lBpYRAK7hZ6scC4PrXms91Q/m3u8
 #EXTINF:-1,Nova Sport
